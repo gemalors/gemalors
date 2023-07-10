@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gema</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-- 🔭 I’m currently working on **new ideas for new project**
+<!--- 🔭 I’m currently working on **new ideas for new project**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
